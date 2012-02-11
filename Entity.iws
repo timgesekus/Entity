@@ -29,73 +29,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0dd09df-85ef-478b-87b9-b2631d653486" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/behavior/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/constraints/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/editor/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/structure/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/trace.info" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/behavior/BehaviorAspectDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/behavior/ManagerModel_BehaviorDescriptor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/editor/ManagerModel_Editor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/structure/ManagerModel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/structure/Manager_Language.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/structure/StructureAspectDescriptor.java" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\Entity\Language.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\Entity\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\AbstractType_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\BehaviorAspectDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\EEntityType_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\EInteger_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\EString_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\EString_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\EntityModel_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\Entity_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\Property_Behavior.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\Property_BehaviorDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\behavior\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\constraints\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EEntityType_Editor$_Inline_zi5mpx_a0a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EEntityType_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EInteger_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EString_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EntityModel_Editor$entitiesListHandler_ig6937_c0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EntityModel_Editor$entitiesListHandler_ig6937_e0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\EntityModel_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor$propertiesListHandler_n4nctg_a0d0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor$propertiesListHandler_n4nctg_a3a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor$propertiesListHandler_n4nctg_b0d0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor$propertiesListHandler_n4nctg_c0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor$propertiesListHandler_n4nctg_d0.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Entity_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Property_Editor$_Inline_d21pjf_a0a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Property_Editor$_Inline_d21pjf_a3a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Property_Editor$smodelAttributeListHandler_d21pjf_a0a0a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Property_Editor$smodelAttributeListHandler_d21pjf_a0a3a.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\Property_Editor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\editor\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\generator\template\main\QueriesGenerated.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\generator\template\main\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\AbstractType.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\EEntityType.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\EInteger.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\EString.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\Entity.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\EntityModel.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\Entitymodel_Language.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\Property.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\StructureAspectDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\structure\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\typesystem\TypesystemDescriptor.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\typesystem\trace.info" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\typesystem\typeof_Property_InferenceRule.class" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\solutions\de.dfs.entitymodel.sandbox\classes_gen\de\dfs\entitymodel\sandbox\model\Atm.md" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\solutions\de.dfs.entitymodel.sandbox\classes_gen\de\dfs\entitymodel\sandbox\model\Fank.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\solutions\de.dfs.entitymodel.sandbox\classes_gen\de\dfs\entitymodel\sandbox\model\Te.cc" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Tim\MPSProjects\Entity\solutions\de.dfs.entitymodel.sandbox\classes_gen\de\dfs\entitymodel\sandbox\model\trace.info" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Tim\MPSProjects\Entity\languages\Entity\classes_gen\de\dfs\entitymodel\constraints\trace.info" afterPath="$PROJECT_DIR$/languages/Manager/source_gen/Manager/typesystem/trace.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Manager/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/Manager/languageModels/editor.mps" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Manager/languageModels/structure.mps" afterPath="$PROJECT_DIR$/languages/Manager/languageModels/structure.mps" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Entity.iws" afterPath="$PROJECT_DIR$/Entity.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/Entity/languageModels/editor.mps" afterPath="$PROJECT_DIR$/languages/Entity/languageModels/editor.mps" />
     </list>
     <ignored path="Entity.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -125,7 +61,102 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="EEntityType" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.dfs.entitymodel.structure/EEntityType">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1401601557049181873" modelId="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EntityModel" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.dfs.entitymodel.structure/EntityModel">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="183" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="Constant_ueqr71_l1c0" cellNumber="0" isInList="false">
+                      <node model="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" id="1401601557049105156" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1401601557049105156" modelId="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Entity" pinned="false" current="false" current-in-tab="false">
+        <entry file="mps://de.dfs.entitymodel.structure/Entity">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="163" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                      <node model="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" id="1401601557049067937" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+              <node nodeId="1401601557049067937" modelId="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Atm" pinned="false" current="true" current-in-tab="true">
+        <entry file="mps://de.dfs.entitymodel.sandbox.model/Atm">
+          <provider selected="true" editor-type-id="MPSFileEditor">
+            <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+              <memento viewPositionX="0" viewPositionY="0">
+                <selectionStack>
+                  <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                    <property name="hasNonTrivialSelection" value="false" />
+                    <property name="caretX" value="27" />
+                    <property name="sideSelectDirection" value="NONE" />
+                    <cellInfo cellId="property_comment" cellNumber="0" isInList="false">
+                      <node model="r:fbc779a5-a651-4664-bf17-903a850933b5(de.dfs.entitymodel.sandbox.model)" id="1401601557049108689" />
+                    </cellInfo>
+                  </stackElement>
+                </selectionStack>
+                <folded />
+              </memento>
+              <inspectorMemento viewPositionX="0" viewPositionY="0">
+                <selectionStack />
+                <folded />
+              </inspectorMemento>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="CHECKOUT_INCLUDE_TAGS" value="false" />
@@ -423,7 +454,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Favorites" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -443,6 +473,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="de.dfs.entitymodel" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Empty" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Entity" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="de.dfs.entitymodel" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="generator/cplusplus" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
@@ -630,6 +678,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Favorites" />
       <pane id="FileSystem">
         <subPane>
           <PATH>
@@ -688,16 +737,16 @@
     <frame x="-8" y="-8" width="1296" height="816" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.4812749" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.4812749" order="19" side_tool="false" content_ui="tabs" />
       <window_info id="Usages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Output" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Supertypes" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Model Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Migration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.49721116" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Replacement" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Module Repository Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.47171316" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Model Checker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.4685259" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="26" side_tool="false" content_ui="tabs" />
       <window_info id="Generation Tracer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24940239" sideWeight="0.67105263" order="0" side_tool="false" content_ui="tabs" x="483" y="170" width="313" height="459" />
@@ -706,13 +755,13 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Classpath Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="RefactoringView" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.49402392" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.5123506" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspector" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32894737" sideWeight="0.49721116" order="12" side_tool="true" content_ui="tabs" />
       <window_info id="Node Explorer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.49083665" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Typesystem Trace" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Typechecker State" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
       <window_info id="Analyze Stacktrace" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.4557769" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.6446215" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
       <window_info id="Class Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -810,20 +859,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="mps://de.dfs.entitymodel.sandbox.model/Atm">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
     <entry file="mps://de.dfs.entitymodel.generator.template.main@generator/main">
       <provider selected="true" editor-type-id="MPSFileEditor">
         <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
@@ -839,8 +874,16 @@
             </selectionStack>
             <folded />
           </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
+          <inspectorMemento viewPositionX="0" viewPositionY="122">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellSelection">
+                <property name="caretX" value="0" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Collection_pxqe0v_a" cellNumber="0" isInList="false">
+                  <node model="r:7a9e2428-de3d-419a-83ba-cf347abc3786(de.dfs.entitymodel.generator.template.main@generator)" id="1401601557049187129" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <folded />
           </inspectorMemento>
         </state>
@@ -863,33 +906,18 @@
             <folded />
           </memento>
           <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.dfs.entitymodel.structure/EEntityType">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
             <selectionStack>
               <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
                 <property name="hasNonTrivialSelection" value="false" />
-                <property name="caretX" value="31" />
+                <property name="caretX" value="15" />
                 <property name="sideSelectDirection" value="NONE" />
-                <cellInfo cellId="Constant_ueqr71_a0a" cellNumber="0" isInList="false">
-                  <node model="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" id="1401601557049180132" />
+                <cellInfo cellId="Constant_y5igai_a0_0" cellNumber="0" isInList="false">
+                  <node model="r:7a9e2428-de3d-419a-83ba-cf347abc3786(de.dfs.entitymodel.generator.template.main@generator)" id="1401601557049190148" />
                 </cellInfo>
               </stackElement>
             </selectionStack>
             <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
           </inspectorMemento>
-          <node nodeId="1401601557049180132" modelId="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
         </state>
       </provider>
     </entry>
@@ -905,21 +933,6 @@
             <folded />
           </inspectorMemento>
           <node nodeId="1401601557049115516" modelId="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="mps://de.dfs.entitymodel.structure/EntityModel">
-      <provider selected="true" editor-type-id="MPSFileEditor">
-        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
-          <memento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </memento>
-          <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
-            <folded />
-          </inspectorMemento>
-          <node nodeId="1401601557049105158" modelId="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
         </state>
       </provider>
     </entry>
@@ -940,7 +953,16 @@
             <folded />
           </memento>
           <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="75" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="TransactionalProperty_ueqr71_b0a" cellNumber="0" isInList="false">
+                  <node model="r:99e11968-5a1b-45f7-ae7d-72238d16df5c(Manager.structure)" id="1401601557049191711" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <folded />
           </inspectorMemento>
           <node nodeId="1401601557049191711" modelId="r:99e11968-5a1b-45f7-ae7d-72238d16df5c(Manager.structure)" />
@@ -964,10 +986,105 @@
             <folded />
           </memento>
           <inspectorMemento viewPositionX="0" viewPositionY="0">
-            <selectionStack />
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="95" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" id="1401601557049118515" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
             <folded />
           </inspectorMemento>
           <node nodeId="1401601557049118514" modelId="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.dfs.entitymodel.structure/EEntityType">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1401601557049181873" modelId="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.dfs.entitymodel.structure/EntityModel">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="183" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="Constant_ueqr71_l1c0" cellNumber="0" isInList="false">
+                  <node model="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" id="1401601557049105156" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1401601557049105156" modelId="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.dfs.entitymodel.structure/Entity">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.editorTabs.TabbedEditor$TabbedEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="163" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_name" cellNumber="0" isInList="false">
+                  <node model="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" id="1401601557049067937" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
+          <node nodeId="1401601557049067937" modelId="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="mps://de.dfs.entitymodel.sandbox.model/Atm">
+      <provider selected="true" editor-type-id="MPSFileEditor">
+        <state class="jetbrains.mps.ide.BaseNodeEditor$BaseEditorState">
+          <memento viewPositionX="0" viewPositionY="0">
+            <selectionStack>
+              <stackElement className="jetbrains.mps.nodeEditor.selection.EditorCellLabelSelection">
+                <property name="hasNonTrivialSelection" value="false" />
+                <property name="caretX" value="27" />
+                <property name="sideSelectDirection" value="NONE" />
+                <cellInfo cellId="property_comment" cellNumber="0" isInList="false">
+                  <node model="r:fbc779a5-a651-4664-bf17-903a850933b5(de.dfs.entitymodel.sandbox.model)" id="1401601557049108689" />
+                </cellInfo>
+              </stackElement>
+            </selectionStack>
+            <folded />
+          </memento>
+          <inspectorMemento viewPositionX="0" viewPositionY="0">
+            <selectionStack />
+            <folded />
+          </inspectorMemento>
         </state>
       </provider>
     </entry>

@@ -49,7 +49,7 @@
         </node>
         <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Collection" typeId="tpc2.1073389446423" id="1401601557049178902">
           <node role="cellLayout" roleId="tpc2.1106270802874" type="tpc2.CellLayout_Horizontal" typeId="tpc2.1106270549637" id="1401601557049178903" />
-          <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.EditorCellModel" typeId="tpc2.1073389214265" id="1401601557049179505" />
+          <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_Indent" typeId="tpc2.1198256887712" id="2818149817147838001" />
           <node role="childCellModel" roleId="tpc2.1073389446424" type="tpc2.CellModel_RefNodeList" typeId="tpc2.1073390211982" id="1401601557049177729">
             <link role="relationDeclaration" roleId="tpc2.1140103550593" targetNodeId="7qhc.1401601557049115561" />
             <node role="cellLayout" roleId="tpc2.1140524464360" type="tpc2.CellLayout_Vertical" typeId="tpc2.1106270571710" id="1401601557049177730" />
