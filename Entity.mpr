@@ -7,6 +7,8 @@
   <component name="MPSProject">
     <projectModules>
       <modulePath path="${project}/languages/Entity/Entity.mpl" />
+      <modulePath path="${project}/languages/Manager/Manager.mpl" folder="" />
+      <modulePath path="${project}/languages/Manager/runtime/runtime.msd" />
       <modulePath path="${project}/solutions/de.dfs.Entity.sandbox/de.dfs.Entity.sandbox.msd" />
       <modulePath path="${project}/solutions/de.dfs.entitymodel.sandbox/sandbox.msd" folder="" />
     </projectModules>
