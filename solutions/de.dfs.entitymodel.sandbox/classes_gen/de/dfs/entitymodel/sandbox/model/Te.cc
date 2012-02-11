@@ -1,4 +1,0 @@
-publicvoidgettim( )
-publicvoidgettom( )
-publicvoidgetref( )
-publicvoidgettesti( )
