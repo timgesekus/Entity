@@ -74,5 +74,11 @@
     <RenameModel oldModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" newModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(net.gesekus.mps.entitymodel.structure)" />
     <RenameModel oldModel="r:7a9e2428-de3d-419a-83ba-cf347abc3786(de.dfs.entitymodel.generator.template.main@generator)" newModel="r:7a9e2428-de3d-419a-83ba-cf347abc3786(net.gesekus.mps.entitymodel.generator.template.generator.template.main@generator)" />
   </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(net.gesekus.mps.entitymodel.structure)" version="7" />
+    </dependencies>
+    <rename id="7qhc.1401601557049124070" type="CHILD" from="type" to="etype" />
+  </StructureModification>
 </history>
 
