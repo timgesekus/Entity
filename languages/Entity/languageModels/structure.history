@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="gnfe" modelUID="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.Entity.typesystem)" version="-1" />
+      <model index="2rfw" modelUID="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.Entity.behavior)" version="-1" />
+      <model index="lwk5" modelUID="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.Entity.constraints)" version="-1" />
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.Entity.structure)" version="-1" />
+      <model index="9sqg" modelUID="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.Entity.editor)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.Entity.behavior)" newModel="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.EntityModel.behavior)" />
+    <RenameModel oldModel="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.Entity.typesystem)" newModel="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.EntityModel.typesystem)" />
+    <RenameModel oldModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.Entity.structure)" newModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.EntityModel.structure)" />
+    <RenameModel oldModel="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.Entity.editor)" newModel="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.EntityModel.editor)" />
+    <RenameModel oldModel="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.Entity.constraints)" newModel="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.EntityModel.constraints)" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.EntityModel.structure)" version="0" />
+    </dependencies>
+    <rename id="7qhc.1401601557049067935" type="CONCEPT" from="entity" to="EntityTest" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.EntityModel.structure)" version="1" />
+    </dependencies>
+    <rename id="7qhc.1401601557049067935" type="CONCEPT" from="EntityTest" to="Entity" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="gnfe" modelUID="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.EntityModel.typesystem)" version="0" />
+      <model index="2rfw" modelUID="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.EntityModel.behavior)" version="0" />
+      <model index="lwk5" modelUID="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.EntityModel.constraints)" version="0" />
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.EntityModel.structure)" version="2" />
+      <model index="9sqg" modelUID="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.EntityModel.editor)" version="0" />
+    </dependencies>
+    <RenameModel oldModel="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.EntityModel.behavior)" newModel="r:41fddeb3-6d89-4f52-99fb-8b7a8befdcf7(de.dfs.entitymodel.behavior)" />
+    <RenameModel oldModel="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.EntityModel.typesystem)" newModel="r:9fccc2c8-9710-403b-80b9-00df49f6e8b6(de.dfs.entitymodel.typesystem)" />
+    <RenameModel oldModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.EntityModel.structure)" newModel="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" />
+    <RenameModel oldModel="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.EntityModel.editor)" newModel="r:d1115ca6-63c7-43dc-a3bf-89b69e0fe274(de.dfs.entitymodel.editor)" />
+    <RenameModel oldModel="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.EntityModel.constraints)" newModel="r:c7ce7812-c93a-428f-9aeb-f2750321e9fd(de.dfs.entitymodel.constraints)" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" version="3" />
+    </dependencies>
+    <rename id="7qhc.1401601557049115555" type="REFERENCE" from="entity" to="type" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" version="4" />
+    </dependencies>
+    <rename id="7qhc.1401601557049118517" type="CONCEPT" from="String" to="EString" />
+  </StructureModification>
+  <StructureModification>
+    <dependencies>
+      <model index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" version="5" />
+    </dependencies>
+    <rename id="7qhc.1401601557049118514" type="CONCEPT" from="Type" to="AbstractType" />
+  </StructureModification>
+</history>
+

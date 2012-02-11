@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependenciesRoot>
+  <dependency className="de.dfs.entitymodel.sandbox.model.Atm" file="Atm.md" />
+  <dependency className="de.dfs.entitymodel.sandbox.model.Fank" file="Fank.cc" />
+  <dependency className="de.dfs.entitymodel.sandbox.model.Te" file="Te.cc" />
+</dependenciesRoot>
+

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dependencies version="2" modelHash="-cajhi9zddadu186681dg9mhb4yj5v34">
+  <dep model="r:00000000-0000-4000-0000-011c89590576(jetbrains.mps.gtext.generator.baseLanguage.template.main@generator)" />
+  <dep model="r:7a9e2428-de3d-419a-83ba-cf347abc3786(de.dfs.entitymodel.generator.template.main@generator)" hash="cqv6bord5848aesnwnbpr6dadfgcmgz" />
+  <common hash="zw4jx3j7ubsqrsglwvf8wdr037czf2" />
+  <source id="1401601557049108689" name="Atm" hash="3o5c34aex60trg2c2gi11r74mie7ch8">
+    <dep model="r:00000000-0000-4000-0000-011c89590576(jetbrains.mps.gtext.generator.baseLanguage.template.main@generator)" />
+    <dep model="r:7a9e2428-de3d-419a-83ba-cf347abc3786(de.dfs.entitymodel.generator.template.main@generator)" />
+    <file name="Atm.md" />
+    <file name="Fank.cc" />
+    <file name="Te.cc" />
+  </source>
+</dependencies>
+
