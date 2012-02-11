@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<language namespace="de.dfs.entitymodel" uuid="de02daa0-bf6b-4ee9-b09f-dd296e1e88a0" compileInMPS="true" doNotGenerateAdapters="false">
+<language namespace="net.gesekus.mps.entitymodel" uuid="de02daa0-bf6b-4ee9-b09f-dd296e1e88a0" compileInMPS="true" doNotGenerateAdapters="false">
   <models>
-    <modelRoot path="${language_descriptor}/languageModels" namespacePrefix="de.dfs.entitymodel" />
+    <modelRoot path="${language_descriptor}/languageModels" namespacePrefix="net.gesekus.mps.entitymodel" />
   </models>
   <accessoryModels />
   <generators>
-    <generator name="cplusplus" generatorUID="de.dfs.entitymodel#1401601557049185663" uuid="80226dbf-cc07-420c-b4c0-b800ec90f413">
+    <generator name="cplusplus" generatorUID="net.gesekus.mps.entitymodel#1401601557049185663" uuid="80226dbf-cc07-420c-b4c0-b800ec90f413">
       <models>
-        <modelRoot path="${language_descriptor}/generator/template" namespacePrefix="de.dfs.entitymodel.generator.template" />
+        <modelRoot path="${language_descriptor}/generator/template" namespacePrefix="net.gesekus.mps.entitymodel.generator.template" />
       </models>
       <external-templates />
       <usedLanguages>

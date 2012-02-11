@@ -3,7 +3,7 @@
   <persistence version="7" />
   <language namespace="de02daa0-bf6b-4ee9-b09f-dd296e1e88a0(de.dfs.entitymodel)" />
   <import index="tpck" modelUID="r:00000000-0000-4000-0000-011c89590288(jetbrains.mps.lang.core.structure)" version="0" implicit="yes" />
-  <import index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(de.dfs.entitymodel.structure)" version="6" implicit="yes" />
+  <import index="7qhc" modelUID="r:79ee24fa-3408-493a-b670-61f36d16afe3(net.gesekus.mps.entitymodel.structure)" version="7" implicit="yes" />
   <roots>
     <node type="7qhc.EntityModel" typeId="7qhc.1401601557049105156" id="1401601557049108689">
       <property name="name" nameId="tpck.1169194664001" value="Atm" />

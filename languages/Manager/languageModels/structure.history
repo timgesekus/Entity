@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<history>
+  <StructureModification>
+    <dependencies>
+      <model index="kczj" modelUID="r:23943302-04d6-47ca-ab58-86a00cf33ad7(Manager.behavior)" version="-1" />
+      <model index="1zvk" modelUID="r:99e11968-5a1b-45f7-ae7d-72238d16df5c(Manager.structure)" version="-1" />
+      <model index="7cj9" modelUID="r:8beafa8d-7bb7-4bb0-b3ed-b3ca95761dc2(Manager.typesystem)" version="-1" />
+      <model index="yjtc" modelUID="r:e0aa1e76-4754-4d47-addb-8eb236f88a53(Manager.editor)" version="-1" />
+      <model index="54zc" modelUID="r:95565dcf-5f5a-4d0a-be54-bbe5c90e6558(Manager.constraints)" version="-1" />
+    </dependencies>
+    <RenameModel oldModel="r:e0aa1e76-4754-4d47-addb-8eb236f88a53(Manager.editor)" newModel="r:e0aa1e76-4754-4d47-addb-8eb236f88a53(net.gesekus.mps.Manager.editor)" />
+    <RenameModel oldModel="r:8beafa8d-7bb7-4bb0-b3ed-b3ca95761dc2(Manager.typesystem)" newModel="r:8beafa8d-7bb7-4bb0-b3ed-b3ca95761dc2(net.gesekus.mps.Manager.typesystem)" />
+    <RenameModel oldModel="r:23943302-04d6-47ca-ab58-86a00cf33ad7(Manager.behavior)" newModel="r:23943302-04d6-47ca-ab58-86a00cf33ad7(net.gesekus.mps.Manager.behavior)" />
+    <RenameModel oldModel="r:99e11968-5a1b-45f7-ae7d-72238d16df5c(Manager.structure)" newModel="r:99e11968-5a1b-45f7-ae7d-72238d16df5c(net.gesekus.mps.Manager.structure)" />
+    <RenameModel oldModel="r:95565dcf-5f5a-4d0a-be54-bbe5c90e6558(Manager.constraints)" newModel="r:95565dcf-5f5a-4d0a-be54-bbe5c90e6558(net.gesekus.mps.Manager.constraints)" />
+  </StructureModification>
+</history>
+
